@@ -15,6 +15,10 @@ The case uses m3 spacers and screws and the plate uses m2
 
 ![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Gallery/Renders/Case%201.png?raw=true)
 
+Also has funny shrimp on the back
+
+![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Gallery/Renders/Case%202.png?raw=true)
+
  --- 
 
 ## PCB
