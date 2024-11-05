@@ -5,6 +5,7 @@
 
 The shrimptana is a 35% katana stagger keyboard with a 3 degree tilt and an optional rotary encoder in the center 
 
+![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Misc/KLE.png?raw=true)
  --- 
 
 ## Case
